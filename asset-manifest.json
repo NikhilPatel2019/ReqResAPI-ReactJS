@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.js": "/ReqResAPI-ReactJS/static/js/main.25a80306.chunk.js",
+    "main.js.map": "/ReqResAPI-ReactJS/static/js/main.25a80306.chunk.js.map",
+    "runtime-main.js": "/ReqResAPI-ReactJS/static/js/runtime-main.67d1ab3a.js",
+    "runtime-main.js.map": "/ReqResAPI-ReactJS/static/js/runtime-main.67d1ab3a.js.map",
+    "static/js/2.d4020e10.chunk.js": "/ReqResAPI-ReactJS/static/js/2.d4020e10.chunk.js",
+    "static/js/2.d4020e10.chunk.js.map": "/ReqResAPI-ReactJS/static/js/2.d4020e10.chunk.js.map",
+    "static/js/3.8742cf7a.chunk.js": "/ReqResAPI-ReactJS/static/js/3.8742cf7a.chunk.js",
+    "static/js/3.8742cf7a.chunk.js.map": "/ReqResAPI-ReactJS/static/js/3.8742cf7a.chunk.js.map",
+    "static/js/4.ef95908d.chunk.js": "/ReqResAPI-ReactJS/static/js/4.ef95908d.chunk.js",
+    "static/js/4.ef95908d.chunk.js.map": "/ReqResAPI-ReactJS/static/js/4.ef95908d.chunk.js.map",
+    "static/js/5.c3501055.chunk.js": "/ReqResAPI-ReactJS/static/js/5.c3501055.chunk.js",
+    "static/js/5.c3501055.chunk.js.map": "/ReqResAPI-ReactJS/static/js/5.c3501055.chunk.js.map",
+    "index.html": "/ReqResAPI-ReactJS/index.html",
+    "static/js/2.d4020e10.chunk.js.LICENSE.txt": "/ReqResAPI-ReactJS/static/js/2.d4020e10.chunk.js.LICENSE.txt",
+    "static/js/3.8742cf7a.chunk.js.LICENSE.txt": "/ReqResAPI-ReactJS/static/js/3.8742cf7a.chunk.js.LICENSE.txt",
+    "static/js/4.ef95908d.chunk.js.LICENSE.txt": "/ReqResAPI-ReactJS/static/js/4.ef95908d.chunk.js.LICENSE.txt",
+    "static/js/5.c3501055.chunk.js.LICENSE.txt": "/ReqResAPI-ReactJS/static/js/5.c3501055.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.67d1ab3a.js",
+    "static/js/3.8742cf7a.chunk.js",
+    "static/js/main.25a80306.chunk.js"
+  ]
+}
